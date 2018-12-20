@@ -1,5 +1,5 @@
 # treeClust-benchmarking
-R scripts for treeClust benchmarking manuscript
+R scripts and data for treeClust benchmarking manuscript
 
 This is a brief explanation of the R scripts used for the benchmarking of the treeClust algorithm. This work is documented in more detail in our manuscript {ADD bioRxiv LINK HERE}. The treeClust algorithm was developed by Buttrey & Whitaker ("treeClust: an R package for tree-based clustering dissimilarities", The R Journal, 2015). All scripts were written in Ubuntu 18.04 using R version 3.5.1 ("Feather Spray").
 
